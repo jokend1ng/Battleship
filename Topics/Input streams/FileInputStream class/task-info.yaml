@@ -1,0 +1,31 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: It is a character input stream
+- text: You can directly read characters using <b>FileInputStream</b> class
+- text: It is intended for reading files
+- text: It can read an input byte by byte
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9722#comment
+status: Failed
+feedback:
+  message: Answer choices will be shuffled next time.
+  time: "Wed, 12 Apr 2023 22:54:54 UTC"
+record: -1
+selected_options:
+- 0
+- 1
+- 2
+- 3
+local_check: false
